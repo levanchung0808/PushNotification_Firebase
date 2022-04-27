@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "305413203331",
+    "project_id": "pushnotification-eb4fa",
+    "storage_bucket": "pushnotification-eb4fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305413203331:android:7a3a892d50da2623ea42b6",
+        "android_client_info": {
+          "package_name": "com.antv.pushnotifcationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305413203331-jn8m2sgt003a3e04ho5ojt5a70mf76hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.antv.pushnotifcationfirebase",
+            "certificate_hash": "7489c10360da477ef06bc8585b73da42cf70da32"
+          }
+        },
+        {
+          "client_id": "305413203331-0j3el8e1ldf35io4bfajmq9pujs6un0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZuWOPFM6o9FjribXudRBQqONlu52Zy0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305413203331-0j3el8e1ldf35io4bfajmq9pujs6un0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
